@@ -161,7 +161,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner VARGAS_250 wa.me/6281227560249' ,MessageType.text);' ,MessageType.text);
+conn.sendMessage(id, 'Owner VARGAS_250 wa.me/6281227560249 ,MessageType.text);' ,MessageType.text);
 }
 else if (text == 'Vargas'){
 conn.sendMessage(id, 'Aku BOT nya VARGAS_250 ,MessageType.text);
